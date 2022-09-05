@@ -1,0 +1,46 @@
+21:19:59.613 [http-nio-8080-exec-4] INFO  com.loginpage.LoginServlet - Patient mihir123 is login
+21:19:59.676 [http-nio-8080-exec-5] INFO  com.projectservice.Authentication - Patient mihir123 is accessing booked appointment details
+21:19:59.722 [http-nio-8080-exec-5] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+21:20:03.469 [http-nio-8080-exec-6] INFO  com.loginpage.Logout - Patient mihir123 is log out 
+10:10:20.798 [http-nio-8080-exec-5] INFO  com.sigin.SiginServlet - Patient  yug123 is Sigin
+10:10:20.866 [http-nio-8080-exec-7] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+10:10:31.326 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+10:10:31.371 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - fetching doctors list by city
+10:10:34.086 [http-nio-8080-exec-8] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+10:10:44.428 [http-nio-8080-exec-10] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+10:10:44.463 [http-nio-8080-exec-10] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+10:10:48.424 [http-nio-8080-exec-3] INFO  com.loginpage.Logout - Patient yug123 is log out 
+17:17:22.083 [http-nio-8080-exec-9] INFO  com.loginpage.LoginServlet - Patient yug123 is login
+17:17:22.124 [http-nio-8080-exec-10] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+17:17:22.154 [http-nio-8080-exec-10] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:17:27.947 [http-nio-8080-exec-1] INFO  com.projectservlets.deleteservlet - Patient yug123 is deleted the appointment with Doctor bansil at appointment date 6161-09-09
+17:17:27.990 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+17:17:32.892 [http-nio-8080-exec-4] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+17:17:32.913 [http-nio-8080-exec-4] INFO  com.projectservice.Authentication - fetching doctors list by city
+17:17:34.913 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:17:43.172 [http-nio-8080-exec-5] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+17:17:43.190 [http-nio-8080-exec-5] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:17:46.465 [http-nio-8080-exec-6] INFO  com.loginpage.Logout - Patient yug123 is log out 
+17:17:56.137 [http-nio-8080-exec-8] INFO  com.loginpage.LoginServlet - Doctor leo is login
+17:17:56.891 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:17:56.908 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - Doctor leo is accessing booked appointment details
+17:17:56.925 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:17:56.948 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:17:56.967 [http-nio-8080-exec-9] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:24.669 [http-nio-8080-exec-1] INFO  com.projectservlets.priciptionservlet - Doctor leo has given the prescription to the Patient yug123
+17:19:24.745 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:19:24.762 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - Doctor leo is accessing booked appointment details
+17:19:24.778 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:24.796 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:24.814 [http-nio-8080-exec-2] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:28.413 [http-nio-8080-exec-4] INFO  com.projectservlets.statusservlet - Doctor leo has closed the appointment with patient yug123 on date 5959-09-09
+17:19:28.478 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:19:28.493 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - Doctor leo is accessing booked appointment details
+17:19:28.507 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:28.522 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:28.539 [http-nio-8080-exec-3] INFO  com.projectservice.Authentication - fetching patient by patientid
+17:19:45.692 [http-nio-8080-exec-5] INFO  com.loginpage.Logout - Doctor leo is log out 
+17:19:56.312 [http-nio-8080-exec-7] INFO  com.loginpage.LoginServlet - Patient yug123 is login
+17:19:56.323 [http-nio-8080-exec-8] INFO  com.projectservice.Authentication - Patient yug123 is accessing booked appointment details
+17:19:56.340 [http-nio-8080-exec-8] INFO  com.projectservice.Authentication - fetching doctor by doctorid
+17:21:21.889 [http-nio-8080-exec-10] INFO  com.loginpage.Logout - Patient yug123 is log out 
